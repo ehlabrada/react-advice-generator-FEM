@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-advice-generator-FEM/static/js/main.312a548e.js",
+    "index.html": "/react-advice-generator-FEM/index.html",
+    "static/media/icon-dice.svg": "/react-advice-generator-FEM/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/react-advice-generator-FEM/static/media/pattern-divider-mobile.39961603a64543e64b16ff5610bece35.svg",
+    "static/media/pattern-divider-desktop.svg": "/react-advice-generator-FEM/static/media/pattern-divider-desktop.4e62bb7574fce98287ecc530205e1efb.svg",
+    "main.312a548e.js.map": "/react-advice-generator-FEM/static/js/main.312a548e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.312a548e.js"
+  ]
+}
