@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 
@@ -9,21 +9,17 @@ const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Manrope', sans-serif;
   }
 
   body {
-    background: hsl(217, 54%, 11%);
+    width: 100%;
     min-height: 100vh;
-    color: hsl(215, 51%, 70%);
+    background-color: ${({ theme }) => theme.colors.darkGrayishBlue};
 
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
-  p{
-    font-size: 18px;
   }
 
 `;
